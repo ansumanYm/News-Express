@@ -28,9 +28,27 @@ This app is deployed on Heroku Cloud Platform.
 4. Building a Streamlit Web App
 ---
 
----
+## NLP (Natural Language Processing) 
+It is the field of artificial intelligence that studies the interactions between computers and human languages, in particular how to program computers to process and analyze large amounts of natural language data. The hardest NLP tasks are the ones where the output isn’t a single label or value (like Classification and Regression), but a full new text (like Translation, Summarization and Conversation).
 
 ## Text Summarization
 
 Text summarization is the process of creating shorter text without removing the semantic structure of text.
----
+
+![image](https://user-images.githubusercontent.com/96365389/186690772-cd8a5bfb-c594-4130-87db-ee119c7f46fe.png)
+
+### Extractive Text Summarization:
+
+It is the traditional method developed first. The main objective is to identify the significant sentences of the text and add them to the summary. You need to note that the summary obtained contains exact sentences from the original text.
+
+### Abstractive Text Summarization:
+
+It is a more advanced method, many advancements keep coming out frequently(I will cover some of the best here). The approach is to identify the important sections, interpret the context and reproduce in a new way. This ensures that the core information is conveyed through shortest text possible. Note that here, the sentences in summary are generated, not just extracted from original text.
+
+In this project I have used TextRank algorithm.
+
+### What is TextRank algorithm?
+
+TextRank is an extractive summarization technique. It is based on the concept that words which occur more frequently are significant. Hence , the sentences containing highly frequent words are important . Based on this , the algorithm assigns scores to each sentence in the text . The top-ranked sentences make it to the summary.
+
+
