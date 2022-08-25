@@ -18,3 +18,19 @@ This app is deployed on Heroku Cloud Platform.
 ##### `Streamlit` `Natural Language processing` `SpaCy`
 ---
 
+---
+
+## Project Walkthrough
+
+1. Collecting data from Google RSS Feeder
+2. Extracting text using beautiful Soup
+3. Text summarization using NLP and SpaCy.
+4. Building a Streamlit Web App
+---
+
+---
+
+## Text Summarization
+
+Text summarization is the process of creating shorter text without removing the semantic structure of text.
+---
