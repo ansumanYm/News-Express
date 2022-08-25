@@ -1,4 +1,4 @@
-# News-Express
+# News Express Web App
 
 Daily news in a short and Summarized form(Using NLP).
 
