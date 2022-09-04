@@ -1,5 +1,5 @@
 # News Express Web App
-Visit Web app:- https://news-expressapp.herokuapp.com
+## Visit Web app:- https://news-expressapp.herokuapp.com
 
 News Express is a python web app build using Streamlit. This app provides us with daily news articles in short summarized form. This app derives news from Google Rss feeder and then uses Natural language processing, word frequency based Extractive summarization method, to produce a short Summary for the readers. 
 
