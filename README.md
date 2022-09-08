@@ -26,6 +26,7 @@ This app is deployed on Heroku Cloud Platform.
 2. Extracting text using beautiful Soup
 3. Text summarization using NLP and SpaCy.
 4. Building a Streamlit Web App
+5. Deploying app on Heroku
 ---
 
 ## NLP (Natural Language Processing) 
